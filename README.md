@@ -1,8 +1,8 @@
 # practice
 
-Contributor: Norald Alejo
-  Email: norald.alejo@gmail.com
-  github HTTPS: https://github.com//Noraldeno/practice.git
+Contributor: Norald Alejo <br />
+Email: norald.alejo@gmail.com  <br />
+github HTTPS: https://github.com//Noraldeno/practice.git
 
 This repository is for practicing git from bash. Below is a list of common git commands.
 
