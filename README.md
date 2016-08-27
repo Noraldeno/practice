@@ -6,8 +6,8 @@ github HTTPS: https://github.com//Noraldeno/practice.git
 
 This repository is for practicing git from bash. Below is a list of common git commands.
 
-Git Commands
-  ~git config: Sets configuration values for user name, email and more
+Git Commands  
+~git config: Sets configuration values for user name, email and more
   ~git init: Initializes a git repository
   ~git clone: Makes a Git repository copy from a remote sources. Also adds original location as a remote so you can fetch from it again and push to it if you have permissions. Ex: git clone https://github.com//Noraldeno/practice.git
   ~git add: Adds file changes in your working directory to your index
