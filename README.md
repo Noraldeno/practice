@@ -23,3 +23,12 @@ Git Commands
 ~git fetch: Fetches all the objects from the remote repository that are not present in the local one  
 ~git pull: Fetches the files from the remote repository and merges with your local one  
 ~git push: Pushes all the modified local objects to the remote repository and advances its branches  
+
+
+
+To add an (existing) repository  
+Must create a repository first from Github.com and copy URL to "remote repository URL"
+
+-git remote add origin "remote repository URL" (without quotes)  
+-git remote -v (Verifies the new remote URL)  
+-git push origin master  (This pushes local to the remote repository)  
