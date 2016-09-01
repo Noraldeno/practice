@@ -1,15 +1,15 @@
 # Practice
 
-Contributor: Norald Alejo <br />
-Email: norald.alejo@gmail.com  <br />
-github HTTPS: https://github.com//Noraldeno/practice.git
+Contributor: Norald Alejo  
+Email: norald.alejo@gmail.com  
+github HTTPS: https://github.com/Noraldeno/practice.git
 
 This repository is for practicing git from bash. Below is a list of common git commands.
 
 Git Commands  
 ~git config: Sets configuration values for user name, email and more  
 ~git init: Initializes a git repository  
-~git clone: Makes a Git repository copy from a remote sources. Also adds original location as a remote so you can fetch from it again and push to it if you have permissions. Ex: git clone https://github.com//Noraldeno/practice.git  
+~git clone: Makes a Git repository copy from a remote sources. Also adds original location as a remote so you can fetch from it again and push to it if you have permissions. Ex: git clone https:/github.com/Noraldeno/practice.git  
 ~git add: Adds file changes in your working directory to your index  
 ~git rm: Removes files from your index and working directory so they will not be tracked  
 ~git commit: Takes all of changes written in the index, creates a new commit object pointing to it and sets the branchto point to that new commit: Ex: git commit -m "Committing added changes", git commit -a-m "Committing all changes, equals to git add and git commit"  
